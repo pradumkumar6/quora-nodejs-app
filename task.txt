@@ -1,0 +1,8 @@
+CRUD Application
+// Quoro post
+
+ GET - /posts -> to get data for all posts
+ POST -/posts  -> to add a new post
+ GET -/posts/:id -> to get one post(using id)
+ PATCH - /posts/:id -> to update a specific post
+ DELETE - /posts/:id -> to delete a specific post
